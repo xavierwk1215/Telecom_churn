@@ -1,15 +1,43 @@
-# -DS-_ZeroBase_ML_Project
-Zerobase School Fist ML Project(6.1. ~ 23.)
-
-## Plan
-#### 1) 12~13일 : 개인적으로 분석 진행
-#### * 데이터셋1 : 김나영, 임유진, 장윤영
-#### * 데이터셋2 : 김상민, 박남규, 이민수, 정원근
-#### - 데일리 플랜 & 결과내용 스레드로 작성
-#### - 깃허브에 코드 공유
-#### 2) 14일 : 회의 진행
-#### * 2시-3시 : 소팀회의
-#### * 3시-4시 : 전체팀 회의
-#### - 전체팀에서 결정된 건 ppt에 내용 정리
-#### 3) 15일 : PPT 만들기
-#### 4) 16일 : 발표
+![0001](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/95c34cc1-19f2-44bb-ba00-e0e9fb4d2d8f)
+![0002](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/7ad7c64c-ba22-400e-831e-85a8b616623f)
+![0003](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/c69243c3-a09c-427f-98f3-096305da626c)
+![0004](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/56487a4c-8735-42da-8457-c9e654424076)
+![0005](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/e4171709-fe76-4897-bfa0-748ad1468a75)
+![0006](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/3cbbe20b-4361-48e5-a210-76a8eef862f0)
+![0007](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/b138ec0a-d165-44a7-8014-8a59acaef3ad)
+![0008](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/8121f4e2-0c34-44fc-999c-0691ae7810a3)
+![0009](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/8e395344-a79e-4a98-b9cd-d0f12de1304b)
+![0010](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/6f4a592f-e2bd-41a5-a88c-925d1acb6411)
+![0011](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/1a268823-bb16-4f61-8e4b-efa1175dbe87)
+![0012](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/7610b1fd-fbfa-4809-ac47-f31572c4dd36)
+![0013](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/9848aa20-fa0c-4909-a4f8-d0cba9446a03)
+![0014](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/b1453351-8be5-4e74-a220-9eca496fefad)
+![0015](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/dcc0ae4a-a740-440f-bd58-ea0ade373f8f)
+![0016](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/f1fe09ac-a885-418c-9ca6-1f4753163982)
+![0017](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/ddaa8a34-2b14-40f9-b666-45c65c617960)
+![0018](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/931949d5-f428-4ee7-9b1c-4f8b98d18207)
+![0019](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/977e48a3-3bd2-4383-81fd-6dbece6cc63a)
+![0020](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/ef3a2083-fba0-409e-b2b8-e0907977b398)
+![0021](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/2b894406-9bff-47b6-863a-75a20e32afd8)
+![0022](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/b47df464-2193-43d3-bb84-ac3d8e21d2a8)
+![0023](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/a6908c21-b195-420b-81a1-93675ad123cf)
+![0024](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/f2f83091-2cbc-4232-a1b2-dd8802069315)
+![0025](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/cdbbd764-1137-4106-92ad-d559dcdc64ca)
+![0026](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/cc89cbdf-1c30-492c-a5c4-159c7f020ad1)
+![0027](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/1d8d6078-f9b6-4a1f-8e04-1834a096b04f)
+![0028](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/eb9f13e0-0072-446d-a254-9a54bee2c82e)
+![0029](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/dc18e2ba-bfc6-4052-9a06-bc308294de67)
+![0030](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/e8b8be7a-b802-40cd-b602-bff6e817ce18)
+![0031](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/0703931a-95c4-4e44-8269-f55d8ae0653d)
+![0032](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/00b117f3-2e69-458f-849a-4232fade9af6)
+![0033](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/2b17ec5d-f9e8-4220-a099-030a93a00d90)
+![0034](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/aa5ba015-f13b-4db0-8ad4-df45e8b99b9d)
+![0035](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/f13aa6b8-abb6-4621-a89e-ddc5f54e5948)
+![0036](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/82ae691b-15e8-479d-87a5-0a3d90287c58)
+![0037](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/38a78f2c-54b5-4d6f-891d-024c0fa35e30)
+![0038](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/53371da4-11e7-481f-aa55-a9b2c00d31f3)
+![0039](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/4d1a8460-15d2-47eb-bf72-a151c0e0238e)
+![0040](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/b3396502-fa49-4c8c-b5ad-9ca33d666709)
+![0041](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/17e900a0-79be-4bbe-9b8f-fbef7ed96e12)
+![0042](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/6312e318-49a7-4e08-ab11-ace875a452fb)
+![0043](https://github.com/xavierwk1215/Telecom_churn/assets/138868050/4dc18568-9e54-495c-9d46-ec6c1f743832)
